@@ -3,7 +3,6 @@ Hi 👋 My name is Hasan Zamil Ahmed
 
 Data Analyst | Data Engineer | Pursuing Masters in Data Science
 ---------------------------------------------------------------
-<a href="https://www.github.com/ornab" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ornab?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
 <p style="text-align: justify;">I'm passionate about the world of data, and being a Master's student in Data Science enriches my understanding, helping me unravel complex data concepts with ease. With experience in Business Intelligence tools and Machine Learning Algorithms, I work hands-on with data, cleaning it up, finding insights, and creating reports and analytics using Power BI and Python with real-world data.</p>
 <p style="text-align: justify;">In my current role at Decathlon, I focused on tracking shrinkage and anomaly, addressing its financial implications by developing comprehensive reports and KPI Dashboards. My efforts aimed to minimize shrinkage through strategic guidelines, utilizing Power BI for robust data analysis and visualization.</p>
@@ -35,6 +34,8 @@ Data Analyst | Data Engineer | Pursuing Masters in Data Science
 
 
 ### My GitHub Stats
+
+<a href="https://www.github.com/ornab" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ornab?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ornab&show_icons=true&locale=en&layout=compact" alt="ornab" /></p>
 
