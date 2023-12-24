@@ -31,7 +31,7 @@ Data Analyst | Data Engineer | Pursuing Masters in Data Science
 
 <!--- <a href="https://www.github.com/ornab" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> -->
 
-
+<!---
 
 ### My GitHub Stats
 
@@ -42,7 +42,7 @@ Data Analyst | Data Engineer | Pursuing Masters in Data Science
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ornab&show_icons=true&locale=en" alt="ornab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ornab&" alt="ornab" /></p>
-
+-->
 <!---
 <a href="http://www.github.com/ornab"><img src="https://github-readme-stats.vercel.app/api?username=ornab&show_icons=true&hide=contribs&count_private=true&title_color=14b8a6&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="ornab's GitHub stats" /></a>
 
