@@ -1,8 +1,8 @@
 Hi 👋 My name is Hasan Zamil Ahmed
 ==================================
 
-Data Analyst | Data Engineer | Pursuing Masters in Data Science
----------------------------------------------------------------
+Data Analytics Engineer (E.ON) | Data Science (M.Sc., University of Potsdam)
+-----------------------------------------------------------------------------
 
 <p style="text-align: justify;">I am a Data Science Master’s student with a passion for data analytics, automation, and business intelligence. </p>
 <p style="text-align: justify;">At E.ON, I work in the Data & AI Infrastructure team, where I design, build, and manage production data pipelines using Microsoft Fabric (SaaS), Azure Data Factory (ADF), Lakehouse, Warehouse, Spark SQL & PySpark Notebooks, Python, Scanner API, and PowerShell.</p>
