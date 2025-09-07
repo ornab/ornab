@@ -10,7 +10,6 @@ Data Analyst | Data Engineer | Pursuing Masters in Data Science
 
 
 * 🌍  I'm based in Germany
-* ✉️  You can contact me at [hzamil17@gmail.com](mailto:hzamil17@gmail.com)
 * 👨‍💻 All of my projects are available at [https://github.com/ornab](https://github.com/ornab)
 
 
