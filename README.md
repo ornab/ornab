@@ -4,9 +4,11 @@ Hi 👋 My name is Hasan Zamil Ahmed
 Data Analyst | Data Engineer | Pursuing Masters in Data Science
 ---------------------------------------------------------------
 
-<p style="text-align: justify;">I'm passionate about the world of data, and being a Master's student in Data Science enriches my understanding, helping me unravel complex data concepts with ease. With experience in Business Intelligence tools and Machine Learning Algorithms, I work hands-on with data, cleaning it up, finding insights, and creating reports and analytics using Power BI and Python with real-world data.</p>
-<p style="text-align: justify;">In my current role at Decathlon, I focused on tracking shrinkage and anomaly, addressing its financial implications by developing comprehensive reports and KPI Dashboards. My efforts aimed to minimize shrinkage through strategic guidelines, utilizing Power BI for robust data analysis and visualization.</p>
-<p style="text-align: justify;">Formerly a Software Engineer at 2RA Technology and R-creation, my experience in crafting IoT applications in PHP, managing API endpoints, and working extensively with databases directly informs my approach to data management. This background seamlessly integrates software engineering expertise with streamlined data operations, particularly in enhancing data pipeline creation to automate data processes.</p>
+<p style="text-align: justify;">I am a Data Science Master’s student with a passion for data analytics, automation, and business intelligence. </p>
+<p style="text-align: justify;">At E.ON, I work in the Data & AI Infrastructure team, where I design, build, and manage production data pipelines using Microsoft Fabric (SaaS), Azure Data Factory (ADF), Lakehouse, Warehouse, Spark SQL & PySpark Notebooks, Python, Scanner API, and PowerShell.</p>
+<p style="text-align: justify;">I focus on automating data workflows, lifecycle management, and capacity optimisation by integrating Fabric with Azure-native resources. I lead Data Governance initiatives to ensure secure and compliant data management and build alerting and notification systems connected to Power BI for real-time reporting.</p>
+<p style="text-align: justify;">In addition to my technical work, I support internal users with Fabric, Azure, and Power BI, resolving platform issues and promoting best practices. My background in software engineering and analytics allows me to bridge the gap between data platforms and business needs.</p>
+<p style="text-align: justify;">Previously, at Decathlon, I specialised in shrinkage tracking and anomaly detection, leveraging Power BI and Python to drive financial efficiency. My background as a Software Engineer in IoT applications, APIs, and databases enables me to bridge the gap between software development and data-driven decision-making.</p>
 
 
 * 🌍  I'm based in Germany
