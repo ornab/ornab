@@ -20,14 +20,27 @@ Data Analytics Engineer (E.ON) | Data Science (M.Sc., University of Potsdam)
 ### Skills
 
 ### 🧠 Data Science & Analytics
-<img src="...python.svg" width="40"/> <img src="...pytorch.svg" width="40"/> <img src="...pandas.svg" width="40"/> <img src="...scikit-learn.svg" width="40"/> <img src="...seaborn.svg" width="40"/> <img src="...r-lang.svg" width="40"/> <img src="...powerbi.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/> 
 
 ### ☁️ Data Engineering & Cloud
-<img src="...fabric.svg" width="40"/> <img src="...azure.svg" width="40"/> <img src="...adf.svg" width="40"/> <img src="...sql-server.svg" width="40"/> <img src="...postgresql.svg" width="40"/> <img src="...mysql.svg" width="40"/> <img src="...aws.svg" width="40"/> <img src="...git.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> 
 
 ### 💻 Software Development
-<img src="...javascript.svg" width="40"/> <img src="...vue.svg" width="40"/> <img src="...php.svg" width="40"/> <img src="...laravel.svg" width="40"/> <img src="...docker.svg" width="40"/> <img src="...linux.svg" width="40"/>  
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> 
 
 
 <p align="left">
