@@ -13,7 +13,7 @@ Data Analytics Engineer (E.ON) | Data Science (M.Sc., University of Potsdam)
 
 * 🌍  I'm based in Germany
 * 👨‍💻 All of my projects are available at [https://github.com/ornab](https://github.com/ornab)
-* <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/4999f737-f05a-4f46-bc7f-04ed1d5e0a53" />
+* <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4999f737-f05a-4f46-bc7f-04ed1d5e0a53" /> Connect with me on [Linkedin](https://www.linkedin.com/in/ornab-ahmed/)
 
 
 ### 🧠 Data Science & Analytics
