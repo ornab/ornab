@@ -13,8 +13,8 @@ Data Analytics Engineer (E.ON) | Data Science (M.Sc., University of Potsdam)
 
 * 🌍  I'm based in Germany
 * 👨‍💻 All of my projects are available at [https://github.com/ornab](https://github.com/ornab)
+* <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5ac84f78-36d3-4af2-8252-caf39b18a857" />
 
-* 
 
 ### 🧠 Data Science & Analytics
 Python · PyTorch · Pandas · Scikit-Learn · R · Power BI  
