@@ -4,10 +4,10 @@ Hi 👋 My name is Hasan Zamil Ahmed
 Data Analytics Engineer (E.ON) | Data Science (M.Sc., University of Potsdam)
 -----------------------------------------------------------------------------
 
-<p style="text-align: justify;">I am a Data Science Master’s student with a passion for data analytics, automation, and business intelligence. </p>
+<p style="text-align: justify;">Data & AI Engineer with experience in enterprise data infrastructure, automation, and applied machine learning across cloud-native platforms. </p>
 <p style="text-align: justify;">At E.ON, I work in the Data & AI Infrastructure team, where I design, build, and manage production data pipelines using Microsoft Fabric (SaaS), Azure Data Factory (ADF), Lakehouse, Warehouse, Spark SQL & PySpark Notebooks, Python, Scanner API, and PowerShell.</p>
-<p style="text-align: justify;">I focus on automating data workflows, lifecycle management, and capacity optimisation by integrating Fabric with Azure-native resources. I lead Data Governance initiatives to ensure secure and compliant data management and build alerting and notification systems connected to Power BI for real-time reporting.</p>
-<p style="text-align: justify;">In addition to my technical work, I support internal users with Fabric, Azure, and Power BI, resolving platform issues and promoting best practices. My background in software engineering and analytics allows me to bridge the gap between data platforms and business needs.</p>
+<p style="text-align: justify;">My work focuses on automating data workflows, lifecycle management, and capacity optimisation by integrating Fabric with Azure-native services. I contribute to secure and compliant data management practices and implement monitoring and alerting systems connected to Power BI for real-time operational visibility. In addition to my technical work, I support internal users with Fabric, Azure, and Power BI, resolving platform issues and promoting best practices.</p>
+<p style="text-align: justify;">Recently, I have been involved in designing a context-aware, policy-constrained AI assistance prototype that integrates enterprise LLM endpoints with structured policy and metadata layers to support operational decision-making.</p>
 <p style="text-align: justify;">Previously, at Decathlon, I specialised in shrinkage tracking and anomaly detection, leveraging Power BI and Python to drive financial efficiency. My background as a Software Engineer in IoT applications, APIs, and databases enables me to bridge the gap between software development and data-driven decision-making.</p>
 
 
